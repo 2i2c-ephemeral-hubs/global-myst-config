@@ -7,7 +7,7 @@ project:
 site:
   template: book-theme
   options:
-    logo: logo.png
+    logo: https://raw.githubusercontent.com/2i2c-nasa-binder-access/open-sci-binder-config/main/logo.png
   actions:
     - title: Ephemeral Hubs for NASA Communities
       url: https://github.com/2i2c-nasa-binder-access/docs
