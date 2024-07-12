@@ -8,9 +8,6 @@ site:
   template: book-theme
   options:
     logo: https://raw.githubusercontent.com/2i2c-nasa-binder-access/open-sci-binder-config/main/logo.png
-  actions:
-    - title: Ephemeral Hubs for NASA Communities
-      url: https://github.com/2i2c-nasa-binder-access/docs
   jupyter:
     binder:
       url: https://binder.opensci.2i2c.cloud/
