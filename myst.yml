@@ -1,0 +1,16 @@
+version: 1
+project:
+  open_access: true
+  license:
+    code: GPL-3.0-or-later
+    content: CC-BY-4.0
+site:
+  template: book-theme
+  options:
+    logo: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia_logo-white-rtext-blue.svg
+  actions:
+    - title: Ephemeral Hubs for NASA Communities
+      url: https://github.com/2i2c-nasa-binder-access/docs
+  jupyter:
+    binder:
+      url: https://binder.opensci.2i2c.cloud/
