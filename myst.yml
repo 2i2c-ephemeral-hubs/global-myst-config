@@ -7,7 +7,7 @@ project:
 site:
   template: book-theme
   options:
-    logo: https://raw.githubusercontent.com/2i2c-nasa-binder-access/open-sci-binder-config/main/logo.png
+    logo: https://raw.githubusercontent.com/2i2c-ephemeral-hubs/open-sci-binder-config/main/logo.png
   jupyter:
     binder:
       url: https://binder.opensci.2i2c.cloud/
